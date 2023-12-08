@@ -6,3 +6,5 @@ There are a lot of the webpages inside of this repository. To let you know which
 ```bash
   ./MALAYSIA FUND/final project/Project.html (without (BM))
 
+## WARNING!!!
+Please remember to unzip before using it.
